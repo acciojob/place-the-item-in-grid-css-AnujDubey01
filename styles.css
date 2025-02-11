@@ -3,8 +3,7 @@
     width: 200px;
     height: 200px;
     grid-template-rows: repeat(2, 1fr);
-    grid-template-columns: repeat(2, 1fr);
-    gap: 5px; /* Optional: Adds spacing between items */
+    grid-template-columns: repeat(2, 1fr); /* Optional: Adds spacing between items */
     background-color: lightgray; /* Optional: Just for visibility */
 }
 
